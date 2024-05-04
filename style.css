@@ -1,0 +1,7 @@
+body { }
+#header {background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0.5634628851540616) 100%);}
+    p { padding: 10px; }
+section  { padding: 10px; }
+iframe { padding:10px; }
+.card { margin: 10px; }
